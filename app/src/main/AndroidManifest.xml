@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.frenzy.ebook.dgbook2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconlogo"
+        android:label="동국책방"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme1">
+        <activity android:name=".Activity.LoginActivity">
+        </activity>
+        <activity
+            android:name=".Activity.MainmenuActivity"
+            android:gravity="center"
+            android:label="동국책방" />
+        <activity
+            android:name=".Activity.EnrollBookActivity"
+            android:label="도서 등록"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Activity.FindBookActivity"
+            android:label="도서 검색"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Activity.FindResultActivity"
+            android:label="검색 결과"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Activity.FindResultList_Activity"
+            android:label="검색 결과"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".MyAccount.MySellingActivity"
+            android:label="내가 판매한 책"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".MyAccount.MySellingDetail_Activity"
+            android:label="내가 판매한 책"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".MyAccount.MyDealingActivity"
+            android:label="내가 거래중인 책"
+            android:theme="@style/AppTheme"/>
+        <activity android:name=".MyAccount.MyDealingDetail_Activity"
+            android:label="내가 거래중인 책"
+            android:theme="@style/AppTheme"/>
+        <activity
+            android:name=".Activity.CommentActivity"
+            android:label="댓글쓰기"
+            android:theme="@style/AppTheme"/>
+        <activity android:name=".Activity.TutorialActivity" />
+        <activity android:name=".Activity.IntroActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            </activity>
+    </application>
+
+</manifest>

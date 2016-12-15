@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "207340704997",
+    "firebase_url": "https://dgbook-c8aea.firebaseio.com",
+    "project_id": "dgbook-c8aea",
+    "storage_bucket": "dgbook-c8aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207340704997:android:32bc0d75906539cd",
+        "android_client_info": {
+          "package_name": "com.frenzy.ebook.dgbook2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207340704997-thlc6berqvbdqsmv45tqd80sdteq2ajv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyAX99n1CnybRmyopcQD_jZrMUPK9d3Dw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/SellingBook"
+            android:title="내가 판 책" />
+        <item
+            android:id="@+id/DealingBook"
+            android:title="거래 중인 책" />
+        <item
+            android:id="@+id/logout"
+            android:title="로그아웃" />
+    </group>
+</menu>
