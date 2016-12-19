@@ -84,9 +84,9 @@ public class MySellingDetail_Activity extends AppCompatActivity implements View.
         book_compV = (TextView) findViewById(R.id.lbl_Sitem_company);
         book_writerV = (TextView) findViewById(R.id.lbl_Sitem_writer);
         prof_nameV = (TextView) findViewById(R.id.lbl_Sitem_prof);
-        class_nameV = (TextView) findViewById(R.id.lbl_Sitem_writer);
+        class_nameV = (TextView) findViewById(R.id.lbl_Sitem_class_);
         book_priceV = (TextView) findViewById(R.id.lbl_Sitem_price);
-        book_typeV = (TextView) findViewById(R.id.lbl_Sitem_price);
+        book_typeV = (TextView) findViewById(R.id.lbl_Sitem_type);
         imageV=(ImageView) findViewById(R.id.imageDownloaded);
 
         button_writeComment=(Button)findViewById(R.id.button_writeComment);
@@ -103,6 +103,7 @@ public class MySellingDetail_Activity extends AppCompatActivity implements View.
     @Override
     public void onBackPressed() {
         super.onBackPressed();
+
     }
 
     @Override

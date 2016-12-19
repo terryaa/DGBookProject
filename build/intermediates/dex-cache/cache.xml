@@ -3,12 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_edbafddf21e353996f31df8a1a046df5d5fb05a1.jar" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f93029858410b542fc176df39ca8628228eec840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_691bdc37eb0cb57dd1925ff17e3e2cd04c954bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_7e61e115e55f168d5013ef7b59dcec4c187d33a1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,187 +35,115 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4e503f7b93f69adf8a683d470cbaadc0db762e78.jar" />
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4e503f7b93f69adf8a683d470cbaadc0db762e78.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_d4fc319d7af80a366dba98eef45523411bd939fc.jar" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_81792dfdb20c8668d3b58a027349f58727811046.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_7ce7ad490bf1a89777960134f4622dae2650cc28.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_0b47d54bcc7ad6d2a95dac7d3d54d6285a0882b8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_a57a65d2d78ab290ab8ae5516928fd133495dac9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_28a5829abc86ee9d701f10cbf433f63963e417d5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_ff6dabeabf985b9bab4daf27cb413c3fef3bbbf2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_a6c6e2530ff56a9b4d4e0d14482626af7b50ae67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_db3a69eb9683198f2a0a5d78044438de42ef812a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b1c8be29c0a73bc8806c5d243576134f397c4aaa">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.0.0_d6a4bb0e35b6a932b312093d31d03e35bf30d91a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_a63f4e76839bdb1d8a049eab21a84827d086c568.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_c63dbb3721175cef5f6ce40ea3b4e1bd828ce2d4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_44515ce812f4eab5ffec6871b3e6256bf162b4a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_8221550c344eff8a3dd87285fde04a7b155b4e0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_c91163c1e3d356b48979ce980754a585404490ab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_15e893db9c51d8320d3a736647ce5ffa6721302b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_16db7ff93cdeb55eeb13f6383f8167d90b28334e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9f3006e8fede54d132f6b7b63dfa7e114b4c669c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_c8fe3193900cd40208cf3497e6e3b7fa3d7f902b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e86d90e3133e8c1d881eb551bda39fe5fd3e03f0.jar" />
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3d611b70de5cb495d23fa789ec145b5d46693d89.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6c27b5990d709e5a893d418c40529e74c6d384f5.jar" />
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_318230cb257e0e321a4690e754998c8603ba623e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6e361f3bc544b00c04026a74085be3bce97e97aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_c1649f7243dc9519aa5797450faa73115f1d4bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_df8dc33258d7037ef16a5757886ba85c90bd0f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_9281d258dc7d1128cb25310617c916aa5a0aa7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_b076de8b89f087b0f94e76fcc8e020d3bfdaccac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_42e4c079dc0c21996cedff13fb683e097a6150a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_448462c3d78cae4d2f526edb61aa27b307c62b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b1c8be29c0a73bc8806c5d243576134f397c4aaa">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.0.0_0849ff82e4c2813724815c3120e125adf8632aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_969b6c176161e23d0cc5d364010078c4818584c1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,25 +152,88 @@
         optimize="true"
         revision="24.0.3"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/library-2.4.0_19182a9f85def0e6c79d8c3de149e0116eac2770.jar" />
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/library-2.4.0_19182a9f85def0e6c79d8c3de149e0116eac2770.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_429120cb0963d9077c2dde2105bb35c5df737441.jar" />
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_1ca2216ec63ae1d8c8c3d7f33589bd56dd6486f0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_7b6df7d71224efcefaa0eb220239734b95eb8b6e.jar" />
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_9dba8260377889344372c206218e34507ed1c798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_51129c71ab7678c998b1a79dc26b110d1392cfbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_2888eea32e6440c7baef27208a0aace9c10afba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_0fe944e2b870c2c5f21dd5408802c6c3cfdec1fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_774b759e2c928e251a96bdb9ff8372567418c365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_0e1fae30c0da7cf39f255ad4d6a2f43943eaab6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_e24d05fb5f69d13f72e70dada70a3552bc699ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_454e4e2ab229da5b0d7fffb1eaf5dcbff3637802.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,43 +242,34 @@
         optimize="true"
         revision="24.0.3"
         sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/jsoup-1.10.1_b9dde94b684f76f47d48be6b3710f7d21e2e13a3.jar" />
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/jsoup-1.10.1_b9dde94b684f76f47d48be6b3710f7d21e2e13a3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_535f0eae6098fd1dc2577c6de27e49b72df00634.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d45771a83b540a7a4c753689a573b3b559dece97.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_e34788dd16ec5a436850015768db75ca5ffe951d.jar" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_6caa0540bffd79a7a28f40bd44af2c8c553a0004.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_07de9c822faa2274ceec09acce405c4c346591c4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/YoungHoonKim/Downloads/DGBook/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_a0a3f574a5591bf52a6fcd804d335247d68981c2.jar" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/YoungHoonKim/Documents/DGBookProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_e5d266772c9277ffff655576e690b5d85828535f.jar" />
     </item>
 
 </items>

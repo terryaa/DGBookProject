@@ -128,6 +128,8 @@ public class EnrollBookActivity extends AppCompatActivity implements View.OnClic
     private int Type;
     private SharedPreferences pref;
     private SharedPreferences.Editor prefEditor;
+    public Bitmap photo;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -211,9 +213,8 @@ public class EnrollBookActivity extends AppCompatActivity implements View.OnClic
                 //사진을 불러와 View에 넣은 후, Bitmap이미지를 Base64형태의 String으로 바꿈
                 if(extras != null)
                 {
-                    Bitmap photo = extras.getParcelable("data");
+                    photo = extras.getParcelable("data");
                     mPhotoImageView.setImageBitmap(photo);
-                    photo_str=getStringImage(bitmap);
                 }
 
                 // 임시 파일 삭제
@@ -238,12 +239,14 @@ public class EnrollBookActivity extends AppCompatActivity implements View.OnClic
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
+
             }
 
             case PICK_FROM_CAMERA:
             {
                 // 이미지를 가져온 이후의 리사이즈할 이미지 크기를 결정합니다.
                 // 이후에 이미지 크롭 어플리케이션을 호출하게 됩니다.
+
 
                 Intent intent = new Intent("com.android.camera.action.CROP");
                 intent.setDataAndType(mImageCaptureUri, "image/*");
@@ -299,7 +302,7 @@ public class EnrollBookActivity extends AppCompatActivity implements View.OnClic
             if((book_name.getText().toString()==null)||(book_comp.getText().toString()==null)
                 || (book_writer.getText().toString()==null)|| (prof_name.getText().toString()==null)
             ||(class_name.getText().toString()==null)|| (book_price.getText().toString()==null)
-                    || (photo_str==null))
+                    || (photo==null))
             {
                 Toast.makeText(getApplicationContext(), "모든 정보를 입력하세요", Toast.LENGTH_LONG).show();
             }
@@ -315,7 +318,7 @@ public class EnrollBookActivity extends AppCompatActivity implements View.OnClic
                 try {
                     Book book = new Book(book_name.getText().toString(), book_comp.getText().toString(),
                             book_writer.getText().toString(), prof_name.getText().toString(), class_name.getText().toString(),
-                            Integer.valueOf(book_price.getText().toString()), Type,photo_str,
+                            Integer.valueOf(book_price.getText().toString()), Type,getStringImage(photo),
                             null,pref.getString("id","Load failed"));
                     InsertBook task=new InsertBook();
                     task.execute(book); // execute ㅇㄷ??
@@ -375,7 +378,7 @@ public class EnrollBookActivity extends AppCompatActivity implements View.OnClic
     public String getStringImage(Bitmap bitmap)
     {
         ByteArrayOutputStream stream = new ByteArrayOutputStream();
-        bitmap.compress(Bitmap.CompressFormat.JPEG,40, stream); //compress to which format you want.
+        bitmap.compress(Bitmap.CompressFormat.JPEG,15, stream); //compress to which format you want.
         byte [] byte_arr = stream.toByteArray();
         String image_str = Base64.encodeToString(byte_arr, Base64.DEFAULT);
         bitmap.recycle();

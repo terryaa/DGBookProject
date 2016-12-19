@@ -348,8 +348,14 @@ public class DAO {
             JSONObject jsonObj = new JSONObject(queryJson);
             JSONArray Comment=jsonObj.getJSONArray("result");
 
-            ArrayList<Integer> bookid=new ArrayList<>();
 
+
+            ArrayList<Integer> bookid= null;
+            if(Comment.getJSONObject(0)==null)
+            {
+                return bookid;
+            }
+            bookid=new ArrayList<>();
             JSONObject temp = Comment.getJSONObject(0);
             bookid.add(Integer.valueOf(temp.getString("bookid")));
             for(int i=1;i<Comment.length();i++)
